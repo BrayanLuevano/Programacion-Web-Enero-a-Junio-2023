@@ -1,3 +1,6 @@
+//Luevano Gómez Brayan Alberto - 19210931
+//Hernandez Hernandez Sebastian - 19210507
+
 //Variable para Identificar el Botón
 const Boton1 = document.querySelector('button');
 
